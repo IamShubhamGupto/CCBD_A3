@@ -5,7 +5,8 @@ Pip install modules from requirements.txt
 gdal for reading tile metadata
 opencv and numpy for finding green
 
-# TODO - need help
+# TODO - work on these
 1 modify test.py to read only coordinates
+
 2 create notebook to store data in csv:
 <filename>,<locatio>,<green %>
