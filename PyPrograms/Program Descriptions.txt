@@ -1,0 +1,7 @@
+Detect Green:
+Create a mask for green color and create a binary mask : Green and not green
+Calculate area of green pixels
+
+Test:
+Read the metadata contained in a image-> also contains the location
+We need only location of center pixel
