@@ -1,13 +1,17 @@
-For viewing Sentinel 2 data
+For viewing Sentinel 2 data - SOFTWARE
 SNAP 7 
 QGIS 3.12
+
 Python
 image-slicer pip install image-slicer
-opencv pip install opencv-python
-numpy pip install numpy==1.16.1
-exifread pip install exifread
-Manually install whl files:
-gdal https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
-rasterio https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
+REQUIRED - opencv: pip install opencv-python
+REQUIRED - numpy: pip install numpy==1.16.1
+exifread: pip install exifread
+
+Manually install whl files: 
+pip install 'whatever is filename'.whl
+
+REQUIRED - gdal https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+REQUIRED - rasterio https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
 
 
