@@ -6,6 +6,6 @@ gdal for reading tile metadata\n
 opencv and numpy for finding green
 
 # TODO - work on these
-1 modify detectgreen.py to find area
+1 Hadoop
 
 
