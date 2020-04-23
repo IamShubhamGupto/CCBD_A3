@@ -6,6 +6,8 @@ Python
 image-slicer pip install image-slicer
 REQUIRED - opencv: pip install opencv-python
 REQUIRED - numpy: pip install numpy==1.16.1
+REQUIRED - pandas: pip install pandas
+REQUIRED - csv: pip install csv
 exifread: pip install exifread
 
 Manually install whl files: 
