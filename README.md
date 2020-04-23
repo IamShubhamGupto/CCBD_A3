@@ -9,6 +9,6 @@ opencv and numpy for finding green
 
 pandas to find statistics of green area
 # TODO - work on these
-Make ppt
+
 
 
